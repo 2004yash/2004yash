@@ -1,12 +1,12 @@
 <div align="center">
-
-
-<!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </div>
 
 <table>
   <tr>
+    <td width="30%">
+      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="100%"/>
+    </td>
     <td width="70%">
       
 ### Hello World! Yash here 👋
@@ -16,9 +16,7 @@ I am currently working as a web developer, passionate about building impactful s
 I stay actively involved in tech meetups and hackathons, embracing every opportunity to learn and grow. Looking forward to contributing more to the open-source community and being part of meaningful projects that make a difference.
       
    </td>
-    <td width="30%">
-      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="100%"/>
-    </td>
+    
   </tr>
 </table>
 
